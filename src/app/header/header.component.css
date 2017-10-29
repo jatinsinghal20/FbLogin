@@ -1,0 +1,25 @@
+#Header {
+  background-color: #415E9B;
+  color: white;
+  height: 85px;
+}
+
+.title{
+  font-size: 40px;
+  padding-top: 20px;
+  font-weight: bolder;
+  padding-left: 70px;
+}
+
+.email{
+  padding-top: 10px;
+}
+
+.pass{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.login{
+  padding-left: 10px;
+  padding-top: 40px;
+}
